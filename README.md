@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teabodya
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI & Robotics, Data Science
-- 💞️ I’m looking to collaborate on AI 
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning from Tryhackme
+- 💞️ I’m looking to collaborate on Cybersecurity 
 - 📫 How to reach me @teabodya on any platform
 
 <!---
